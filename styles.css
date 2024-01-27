@@ -1,0 +1,65 @@
+body { background-color: #FCEBB6;
+    color: #221811;
+    font-family: Tahoma, Arial, sans-serif;
+    background-image: url(images/fadedroad50.jpg);
+    background-repeat: no-repeat;
+    }
+    img {padding-left: 10px; padding-right: 10px}
+    #wrapper { background-color: #FEFAEB;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 2px 2px 2px #0a0a0a; 
+    }
+    #homehero {
+        background-image: url(images/hero.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 300px;
+    }
+    #heromugs {
+        background-image: url(images/heromugs.jpg);
+        background-size: 100% 100%; 
+        height: 250px; 
+        width: 100%;
+    }
+    
+    .details {padding-left: 20%; padding-right: 20%; overflow: auto;}
+    header { background-color: #D2B48C;
+    color: #8C3826;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+    main {
+        padding-left: 10px;
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-bottom: 2em;
+        display: block;
+    }
+    h1 {margin-bottom: 0px; font-size: 3em;}
+    h2 { color: #8C3826; }
+    nav { font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    }
+    h3, dt {color: #8C3826}
+    h4 {
+        background-color: #D2B48C;
+        font-size: 1.2em;
+        padding-left: 0.5em;
+        padding-bottom: 0.25em;
+        color: #8C3826
+    }
+    nav a {text-decoration: none;}
+    footer { background-color: #D2B48C;
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+    padding: 1em;
+    border-top: 2px solid #8C3826;
+    }
+    
